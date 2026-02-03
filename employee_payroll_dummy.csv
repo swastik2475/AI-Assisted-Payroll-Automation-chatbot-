@@ -1,0 +1,11 @@
+employee_id,name,role,working_days,leaves,pay_type,rate,username,password
+EMP001,Rahul Sharma,Software Engineer,22,2,monthly,60000,rahul,rahul123
+EMP002,Priya Verma,UI/UX Designer,22,0,monthly,50000,priya,priya123
+EMP003,Amit Patel,Data Analyst,22,1,monthly,45000,amit,amit123
+EMP004,Neha Singh,Content Writer,20,0,hourly,500,neha,neha123
+EMP005,Arjun Mehta,Freelance Developer,18,2,hourly,800,arjun,arjun123
+EMP006,Kavita Rao,HR Executive,22,1,monthly,40000,kavita,kavita123
+EMP007,Vijay Das,Backend Developer,21,0,monthly,65000,vijay,vijay123
+EMP008,Sneha Iyer,QA Engineer,22,1,monthly,48000,sneha,sneha123
+EMP009,Vikas Jain,Product Manager,20,2,monthly,70000,vikas,vikas123
+EMP010,Anjali Gupta,ML Intern,22,0,hourly,300,anjali,anjali123
